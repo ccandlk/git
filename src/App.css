@@ -26,3 +26,14 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+.sidemenu-css {
+  width: 200px;
+  position: absolute;
+  background: #2a405e;
+}
+
+.ant-form label {
+  font-size: 12px !important;
+}
